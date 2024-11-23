@@ -3,9 +3,9 @@
 
 ## Features 👀
 - Secure login system 🔒
-- Running on a private Network 
+- Running on a private Network (⁠•⁠‿⁠•⁠)
 - Using the latest blockchain technology
-- dst
+- dst💆
 
 ## How to Use 👀
 - Clone this repository
