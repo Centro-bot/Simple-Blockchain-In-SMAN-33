@@ -1,5 +1,5 @@
-# Simple Blockchain in SMAN 33 😊 
-- This project was made to fulfill our p5 assignment 🗿 
+# DecentraSend 😊 
+- Decentrasend is a secure data transmission platform. It uses blockchain technology as data encryption. 🗿 
 
 ## Features 👀
 - Secure login system 🔒
